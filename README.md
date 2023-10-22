@@ -33,8 +33,5 @@ Agora você está pronto para começar a utilizar a aplicação de lista de tare
 </div>
 <h3>🔥Projeto rodando🔥</h3>
 
-![flavyss](https://github.com/flavyss/Ladingpage_backend/pkg_foto/2023-10-22 17.18.47 localhost f4ba43754038.png) 
-![flavyss](https://github.com/flavyss/Crud_TO-DO_List/blob/main/photos/f2.png)
-![flavyss](https://github.com/flavyss/Crud_TO-DO_List/blob/main/photos/f3.png)
-![flavyss](https://github.com/flavyss/Crud_TO-DO_List/blob/main/photos/f4.png)
-![flavyss](https://github.com/flavyss/Crud_TO-DO_List/blob/main/photos/f5.png)
+[![flavyss](https://github.com/flavyss/Ladingpage_backend/pkg_foto/2023-10-22 17.18.47 localhost f4ba43754038.png) 
+](https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/2023-10-22%2017.18.47%20localhost%20f4ba43754038.png)
