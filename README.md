@@ -34,6 +34,11 @@ Agora você está pronto para começar a utilizar a aplicação de lista de tare
 <h3>🔥Projeto rodando🔥</h3>
 
 ![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f1.png])
+![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f2.png])
+![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f3.png])
+![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f4.png])
+![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f5.png])
+![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f6.png])
 
 
 
