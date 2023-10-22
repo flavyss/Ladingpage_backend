@@ -1,0 +1,274 @@
+header{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/bg1.png);
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0;
+    background-attachment: fixed;
+    background-blend-mode: screen;
+}
+
+header .container:nth-child(1){
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+}
+
+header .logo{
+    width: 50px;
+}
+
+header .logo img{
+    width: 100%;
+}
+nav.menu{
+    color: #fff;
+    margin: -10px 0;
+}
+nav.menu ul{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    z-index: 2;
+    left: 0;
+    top: 80px;
+    background-color: #181818;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;   
+    list-style-type: none;
+    transition: 1s;
+}
+nav.menu li{
+    font-size: 20px;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+nav.menu h2{
+    cursor: pointer;
+}
+
+nav.menu li a{
+    color: #fff;
+    font-family: 'Tilt Neon', sans-serif;
+    text-decoration: none
+}
+
+nav.menu li a:hover,
+nav.menu li .ativo{
+    color: #666;
+}
+
+.ativa{
+    padding: 20px 0 !important;
+    height: 50vh !important;
+    transition: 1s !important;
+}
+
+header .container:nth-child(2){
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+}
+
+header section.hdtxt{
+    width: 100%;
+    position: relative;
+    top: -150px;
+    text-align: justify;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+header section.hdtxt h2{
+    font-size: 70px;
+    font-variant: small-caps;
+    letter-spacing: 5px;
+}
+
+section.sobre{
+    padding: 40px 0;
+}
+
+.textD{
+    text-align: center;
+}
+.textD .border{
+    width: 50px;
+    height: 1px;
+    margin: 0 auto;
+    background-color: #181818;
+}
+.textD h2{
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+section.sobre .cards{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 80px 0;
+}
+
+section.sobre .cardsingle{
+    width: calc(100% / 3);
+    padding: 0 20px;
+}
+
+section.sobre .cardsingle h3{
+    text-align: center;
+    margin: 10px;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+section.sobre .cardsingle .img{
+    width: 150px;
+    margin: 0 auto;
+}
+
+section.sobre .cardsingle .img img{
+    width: 100%;
+}
+
+section.sobre .cardsingle p{
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+section.sobre .button{
+    width: 100%;
+    text-align: center;
+}
+
+section.sobre button{
+    width: 30%;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    color: #666;
+    background-color: transparent;
+    border: 1px solid #666;
+}
+
+section.sobre button:hover{
+    color: #222;
+    border: 1ps solid #222;
+}
+
+section.galeria{
+    padding: 40px 0;
+}
+
+section.galeria .galeriaCont{
+    width: 100%;
+    margin: 40px 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section.galeria .galeriaWraper{
+    width: calc(100% / 3);
+    padding: 10px;
+}
+
+section.galeria .gimg{
+    width: 100%;
+}
+
+section.galeria .gimg img{
+    width: 100%;
+}
+
+section.contato{
+    margin: 40px;
+}
+
+section.contato form{
+    margin: 30px 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section.contato form p{
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+section.contato .w50{
+    width: 50%;
+    padding: 0 10px;
+    margin: 10px 0;
+}
+section.contato .w100{
+    width: 100%;
+    padding: 0 10px;
+    margin: 10px 0;
+}
+
+section.contato input,
+section.contato textarea{
+    width: 100%;
+    resize: none;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 5px;
+}
+
+section.contato .w100s{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.contato .w100s input{
+    width: 30%;
+    cursor: pointer;
+    font-size:  16px;
+    color: #666;
+    background-color: transparent;
+    border: 1px solid #666;
+}
+
+section.contato .w100s input:hover{
+    color: #222;
+    border: 1ps solid #222;
+}
+
+footer{
+    margin-top: 40px;
+    width: 100%;
+    padding: 20px 0;
+    border-top: 1px solid #222;
+    text-align: center;
+    color: #222;  
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+footer span a i{
+    color: rgb(255, 204, 76);  
+}
+
+footer span a{
+    padding: 5px 10px;
+    cursor: pointer;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+footer p{
+    font-family: 'Tilt Neon', sans-serif;
+    padding: 5px 0;
+}
