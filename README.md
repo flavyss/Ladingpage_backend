@@ -31,16 +31,7 @@ Agora você está pronto para começar a utilizar a aplicação de lista de tare
     <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 </div>
-<h3>🔥Projeto rodando🔥</h3>
 
-
-<img align="center" alt="Rafa-Js" height="400" width="500" src="https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f2.png" />
-![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/2023-10-22%2017.18.47%20localhost%20f4ba43754038.png])
-![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f2.png])
-![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f3.png])
-![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f4.png])
-![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f5.png])
-![flavyss]([https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/f6.png])
 
 
 
