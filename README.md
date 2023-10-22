@@ -33,5 +33,4 @@ Agora você está pronto para começar a utilizar a aplicação de lista de tare
 </div>
 <h3>🔥Projeto rodando🔥</h3>
 
-[![flavyss](https://github.com/flavyss/Ladingpage_backend/pkg_foto/2023-10-22 17.18.47 localhost f4ba43754038.png) 
-](https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/2023-10-22%2017.18.47%20localhost%20f4ba43754038.png)
+(https://github.com/flavyss/Ladingpage_backend/blob/main/pkg_foto/2023-10-22%2017.18.47%20localhost%20f4ba43754038.png)
